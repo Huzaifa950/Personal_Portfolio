@@ -1,0 +1,96 @@
+*{
+    padding:0px;
+    margin:0px;
+    font-family: sans-serif;
+}
+
+.body{
+    background-image: url('./Background/emile-perron-xrVDYZRGdw4-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    padding: 25px;
+    background: #D4E2D4;
+}
+
+.header a{
+    text-decoration: none;
+    margin-left: 8%;
+    padding: 5px 10px;
+    background: #A4D0A4;
+    color: black;
+    border-radius: 15px;
+    font-size:large;
+}
+
+.header a:hover{
+    padding: 8px 13px;
+    background: #35A29F;
+    color: white;
+    border-radius: 15px;
+}
+
+.body .center{
+    text-align: center;
+    padding: 60px;
+    letter-spacing: 3px;
+    background-color: #3eb9b560;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 50px;
+    line-height: 50px;
+}
+
+.body .center:hover{
+    padding:80px;
+    background-color: #2c8a8769;
+    font-size: 28px;
+}
+
+#about{
+    background-color: #d5ffe46e;
+    width: 50%;
+    padding: 50px;
+    margin: 5% 20% 0% 20%; 
+    border-radius:80px;
+
+}
+
+#about:hover{
+    background-color: #9058cfaf;
+    padding: 70px;
+    font-size: large;
+}
+
+#about h2{
+    margin-left: 40%;
+    margin-bottom: 20px;
+    font-size: 30px;
+    padding-bottom: 50px;
+    text-decoration: underline;
+    
+}
+
+#about img{
+    border-radius: 100px;
+    margin-bottom: 50px;
+}
+
+#about img:hover{
+    width: 250px;
+    border-radius: 150px;
+}
+
+#about p{
+    font-size: larger;
+}
+
+.footer{
+    background-color: #a6afa6;
+    padding: 10px;
+    text-align: center;
+}
+
+
